@@ -1,4 +1,4 @@
-# 
+# Enhance MindManager for Windows with MindManager for Windows elite Extension: presentation-mode & offline-access, the #1 extension. Includes presentation-mode and offline-access
 
 
 
